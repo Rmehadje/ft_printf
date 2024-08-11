@@ -27,7 +27,7 @@ int		ft_printf(const char *s, ...);
 int		ft_digit(unsigned long nb);
 int		ft_dtohexad(unsigned int decimalnb);
 int		ft_dtohexade(unsigned int decimalnb);
-void	ft_print_myhex(char *str, int i);
+void	  ft_print_myhex(char *str, int i);
 int		ft_print_p(unsigned long nb);
 int		ft_pointer(unsigned long decimalnb);
 
